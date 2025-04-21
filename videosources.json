@@ -271,15 +271,26 @@
     "id": "4071928365",
     "src": "https://da68guhlrz8fq.cloudfront.net/Test+Videos/495d3a2f-7def-4b2f-abbb-f38cba4d2f40.M4V",
     "url": "",
-    "category": ["moaning", "blonde", "cum", "blowjob", "tongue", "facial"],
-    "creator": ["Bonnie Blue"]
+    "tag": ["moaning", "blonde", "cum", "blowjob", "tongue", "facial"],
+    "category": ["facial", "cum"],
+    "creator": ["Bonnie Blue"],
+    "perspective": ["pov"],
+    "mood": [ "dominant", "casual", "submissive"],
+    "arc_tags": [
+        { "type": "climax", "start": 7, "end": 33 },
+        { "type": "facial", "start": 7, "end": 33 },
+        { "type": "cum", "start": 7, "end": 33 }
+                ],
+    "videoformat": ["horizontal"],
+    "duration": 43
   },
   {
     "id": "1284790356",
     "src": "https://da68guhlrz8fq.cloudfront.net/Test+Videos/trans+porn+NBNABUNNY+misbehaving+with+LongJohnXXL+wearing+a+very+chic+latex.mp4",
     "url": "",
-    "category": ["big tits", "blonde", "blowjob", "tongue", "facial"],
-    "creator": ["WettMelons"]
+    "tag": ["doggy", "blonde", "blowjob", "tongue", "facial", "cowgirl"],
+    "category": ["blowjob", "facial", "doggy", "cowgirl", "reverse cowgirl", "missionary"],
+    "creator": [""]
   },
   {
     "id": "3971628504",
@@ -292,8 +303,18 @@
     "id": "6503284791",
     "src": "https://da68guhlrz8fq.cloudfront.net/Test+Videos/WettMelons20OnlyFans200gqub6mlnaeqtnajy5et8_source20Video_Trim.mp4",
     "url": "",
-    "category": ["big tits", "blonde", "missionary", "moaning", "cum", "cumshot"],
-    "creator": ["WettMelons"]
+    "tag": ["big tits", "blonde", "missionary", "moaning", "cum", "cumshot"],
+    "category": ["missionary", "cum", "cumshot", "handjob"],
+    "creator": ["WettMelons"],
+    "perspective": ["pov"],
+    "mood": [ "dominant", "casual", "submissive"],
+    "arc_tags": [
+        { "type": "missionary", "start": 2, "end": 62 },
+        { "type": "handjob", "start": 63, "end": 93 },
+        { "type": "cum", "start": 89, "end": 115 }
+                ],
+    "videoformat": ["horizontal"],
+    "duration": 125
   },
   {
     "id": "5891274630",
