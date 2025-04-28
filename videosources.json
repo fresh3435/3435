@@ -9,9 +9,9 @@
     "perspective": ["third_person"],
     "mood": ["casual", "risky", "rough", "dominant", "submissive"],
     "arc_tags": [
-        { "type": "climax", "start": 795, "end": 826 },
-        { "type": "squirt", "start": 795, "end": 826 }
-                ],
+    { "type": "climax", "start": 795, "end": 826, "intensity": "3", "perspective": "third person" },
+    { "type": "squirt", "start": 795, "end": 826, "intensity": "3", "perspective": "third person" }
+],
     "videoformat": ["horizontal"],
     "duration": 826
   },
@@ -25,12 +25,13 @@
     "perspective": ["pov", "mixed"],
     "mood": [ "sensual", "casual", "dominant", "rough"],
     "arc_tags": [
-        { "type": "blowjob", "start": 50, "end": 188 },
-        { "type": "missionary", "start": 423, "end": 510 },
-        { "type": "cowgirl", "start": 512, "end": 660 },
-        { "type": "doggy", "start": 661, "end": 860 },
-        { "type": "climax", "start": 930, "end": 1009 }
-                ],
+    { "type": "blowjob", "start": 50, "end": 188, "intensity": "1", "perspective": "pov" },
+    { "type": "missionary", "start": 423, "end": 510, "intensity": "2", "perspective": "third person" },
+    { "type": "cowgirl", "start": 512, "end": 660, "intensity": "2", "perspective": "third person" },
+    { "type": "doggy", "start": 661, "end": 860, "intensity": "3", "perspective": "third person" },
+    { "type": "climax", "start": 930, "end": 1009, "intensity": "3", "perspective": "third person" }
+],
+
     "videoformat": ["horizontal"],
     "duration": 1009
   },
@@ -44,13 +45,14 @@
     "perspective": ["third_person"],
     "mood": [ "dominant", "casual", "dominant", "rough"],
     "arc_tags": [
-        { "type": "blowjob", "start": 2, "end": 649 },
-        { "type": "deepthroat", "start": 420, "end": 510 },
-        { "type": "throatfuck", "start": 130, "end": 266 },
-        { "type": "throatfuck", "start": 345, "end": 415 },
-        { "type": "climax", "start": 575, "end": 615 },
-        { "type": "throatpie", "start": 575, "end": 615 }
-                ],
+    { "type": "blowjob", "start": 2, "end": 649, "intensity": "2", "perspective": "third person" },
+    { "type": "deepthroat", "start": 420, "end": 510, "intensity": "3", "perspective": "third person" },
+    { "type": "throatfuck", "start": 130, "end": 266, "intensity": "3", "perspective": "third person" },
+    { "type": "throatfuck", "start": 345, "end": 415, "intensity": "4", "perspective": "third person" },
+    { "type": "climax", "start": 605, "end": 625, "intensity": "3", "perspective": "third person" },
+    { "type": "throatpie", "start": 605, "end": 525, "intensity": "3", "perspective": "third person" }
+],
+
     "videoformat": ["horizontal"],
     "duration": 649
   },
@@ -64,11 +66,12 @@
     "perspective": ["pov"],
     "mood": [ "dominant", "casual", "dominant", "rough"],
     "arc_tags": [
-        { "type": "blowjob", "start": 2, "end": 500 },
-        { "type": "deepthroat", "start": 45, "end": 455 },
-        { "type": "climax", "start": 464, "end": 500 },
-        { "type": "throatpie", "start": 464, "end": 500 }
-                ],
+    { "type": "blowjob", "start": 2, "end": 500, "intensity": "2", "perspective": "pov" },
+    { "type": "deepthroat", "start": 45, "end": 455, "intensity": "3", "perspective": "pov" },
+    { "type": "climax", "start": 464, "end": 500, "intensity": "3", "perspective": "pov" },
+    { "type": "throatpie", "start": 464, "end": 500, "intensity": "3", "perspective": "pov" }
+],
+
     "videoformat": ["horizontal"],
     "duration": 500
   },
