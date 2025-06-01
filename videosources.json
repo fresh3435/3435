@@ -161,7 +161,7 @@
     "id": "3847261590",
     "src": "https://da68guhlrz8fq.cloudfront.net/Test+Videos/optimized_YH4XvdPVGJMC6ecb7YrDU4Li9apZe48Nt4GrYFqC05082341.MP4",
     "url": "https://www.pornhub.com/view_video.php?viewkey=ph635eb1adea114",
-    "tags": ["moaning", "asian", "cum", "blonde"],
+    "tag": ["moaning", "asian", "cum", "blonde"],
    "category": [ "blowjob", "handjob", "cumshot", "cum"],
     "creator": ["Arie Steele"],
    "perspective": ["pov"],
@@ -179,11 +179,11 @@
     "id": "5728391046",
     "src": "https://da68guhlrz8fq.cloudfront.net/Test+Videos/optimized_YH4XvdPVGJMC6ecb7YrDU4Li9apZe48Nt4GrYFqC05082337.MP4",
     "url": "",
-    "category": ["moaning", "asian", "doggy", "riding", "cowgirl", "cum", "brunette", "blowjob", "facial", "blonde"],
-    "creator": [""]
+    "tag": ["moaning", "asian", "riding", "cum", "brunette", "blowjob", "blonde"],
+   "category": ["doggy", "cowgirl", "cum", "blowjob", "facial"],
    "creator": ["Arie Steele"],
    "perspective": ["mixed"],
-    "mood": [ "casual", "sensual", "soft", "romantic"],
+    "mood": [ "casual", "dominant", "rough", "romantic"],
     "arc_tags": [
      { "type": "doggy", "start": 2, "end": 51, "intensity": "2", "perspective": "third person" },
      { "type": "cowgirl", "start": 53, "end": 207, "intensity": "3", "perspective": "third person" },
@@ -197,9 +197,19 @@
   {
     "id": "9183746520",
     "src": "https://da68guhlrz8fq.cloudfront.net/Test+Videos/optimized_YH4XvdPVGJMC6ecb7YrDU4Li9apZe48Nt4GrYFqC05082329.MP4",
-    "url": "",
+    "url": "https://www.pornhub.com/view_video.php?viewkey=ph6229b3ddf2474",
     "category": ["moaning", "asian", "doggy", "cum", "brunette", "blowjob", "throatpie", "deepthroat"],
-    "creator": [""]
+   "creator": ["Arie Steele"],
+   "perspective": ["pov"],
+    "mood": [ "casual", "sensual", "dominant", "romantic"],
+    "arc_tags": [
+     { "type": "blowjob", "start": 2, "end": 159, "intensity": "2", "perspective": "pov" },
+     { "type": "doggy", "start": 163, "end": 462, "intensity": "3", "perspective": "pov" },
+     { "type": "blowjob", "start": 465, "end": 564, "intensity": "3", "perspective": "pov" },
+     { "type": "blowjob", "start": 465, "end": 584, "intensity": "2", "perspective": "pov" },
+                ],
+    "videoformat": ["horizontal"],
+    "duration": 619
   },
   {
     "id": "2041938756",
