@@ -161,13 +161,14 @@
     "id": "3847261590",
     "src": "https://da68guhlrz8fq.cloudfront.net/Test+Videos/optimized_YH4XvdPVGJMC6ecb7YrDU4Li9apZe48Nt4GrYFqC05082341.MP4",
     "url": "https://www.pornhub.com/view_video.php?viewkey=ph635eb1adea114",
-    "category": ["moaning", "asian", "blowjob", "handjob", "cumshot", "cum", "blonde"],
+    "tags": ["moaning", "asian", "cum", "blonde"],
+   "category": [ "blowjob", "handjob", "cumshot", "cum"],
     "creator": ["Arie Steele"],
    "perspective": ["pov"],
     "mood": [ "casual", "sensual", "soft", "romantic"],
     "arc_tags": [
-        { "type": "blowjob", "start": 0, "end": 452 },
-        { "type": "climax", "start": 453, "end": 487 }
+     { "type": "blowjob", "start": 0, "end": 452, "intensity": "2", "perspective": "pov" },
+     { "type": "climax", "start": 453, "end": 467, "intensity": "2", "perspective": "pov" }
                 ],
     "videoformat": ["horizontal"],
     "duration": 505
@@ -180,6 +181,18 @@
     "url": "",
     "category": ["moaning", "asian", "doggy", "riding", "cowgirl", "cum", "brunette", "blowjob", "facial", "blonde"],
     "creator": [""]
+   "creator": ["Arie Steele"],
+   "perspective": ["mixed"],
+    "mood": [ "casual", "sensual", "soft", "romantic"],
+    "arc_tags": [
+     { "type": "doggy", "start": 2, "end": 51, "intensity": "2", "perspective": "third person" },
+     { "type": "cowgirl", "start": 53, "end": 207, "intensity": "3", "perspective": "third person" },
+     { "type": "blowjob", "start": 212, "end": 514, "intensity": "2", "perspective": "pov" },
+     { "type": "climax", "start": 517, "end": 549, "intensity": "2", "perspective": "pov" },
+     { "type": "facial", "start": 521, "end": 549, "intensity": "2", "perspective": "pov" }
+                ],
+    "videoformat": ["horizontal"],
+    "duration": 549
   },
   {
     "id": "9183746520",
