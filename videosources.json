@@ -198,7 +198,8 @@
     "id": "9183746520",
     "src": "https://da68guhlrz8fq.cloudfront.net/Test+Videos/optimized_YH4XvdPVGJMC6ecb7YrDU4Li9apZe48Nt4GrYFqC05082329.MP4",
     "url": "https://www.pornhub.com/view_video.php?viewkey=ph6229b3ddf2474",
-    "category": ["moaning", "asian", "doggy", "cum", "brunette", "blowjob", "throatpie", "deepthroat"],
+   "tag": ["moaning", "asian", "cum", "brunette", "deepthroat"],
+    "category": [ "doggy", "cum", "blowjob", "throatpie"],
    "creator": ["Arie Steele"],
    "perspective": ["pov"],
     "mood": [ "casual", "sensual", "dominant", "romantic"],
@@ -206,7 +207,7 @@
      { "type": "blowjob", "start": 2, "end": 159, "intensity": "2", "perspective": "pov" },
      { "type": "doggy", "start": 163, "end": 462, "intensity": "3", "perspective": "pov" },
      { "type": "blowjob", "start": 465, "end": 564, "intensity": "3", "perspective": "pov" },
-     { "type": "blowjob", "start": 465, "end": 584, "intensity": "2", "perspective": "pov" },
+     { "type": "blowjob", "start": 465, "end": 584, "intensity": "2", "perspective": "pov" }
                 ],
     "videoformat": ["horizontal"],
     "duration": 619
@@ -215,8 +216,18 @@
     "id": "2041938756",
     "src": "https://da68guhlrz8fq.cloudfront.net/Test+Videos/optimized_YH4XvdPVGJMC6ecb7YrDU4Li9apZe48Nt4GrYFqC0508232A.MP4",
     "url": "",
-    "category": ["moaning", "asian", "brunette", "blowjob", "cum", "deepthroat", "facial"],
-    "creator": [""]
+    "category": ["moaning", "asian", "brunette", "cum", "deepthroat"],
+   "category": [ "blowjob", "cum", "deepthroat", "facial"],
+    "creator": ["Arie Steele"],
+   "perspective": ["pov"],
+    "mood": [ "casual", "sensual", "dominant", "romantic"],
+    "arc_tags": [
+     { "type": "blowjob", "start": 2, "end": 581, "intensity": "2", "perspective": "pov" },
+     { "type": "climax", "start": 583, "end": 617, "intensity": "3", "perspective": "pov" },
+     { "type": "facial", "start": 583, "end": 617, "intensity": "3", "perspective": "pov" }
+                ],
+    "videoformat": ["horizontal"],
+    "duration": 617
   },
   {
     "id": "7362901854",
